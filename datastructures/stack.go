@@ -1,4 +1,4 @@
-package sort
+package datastructures
 
 type Node[T interface{}] struct {
 	value    T

@@ -1,4 +1,4 @@
-package sort
+package datastructures
 
 type QueueNode[T interface{}] struct {
 	value T
